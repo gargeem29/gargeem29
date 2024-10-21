@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Gargee!
-- 👀 I’m interested in Full Stack Development (But Frontend specifically hehe )
+- 👀 I’m interested in Full Stack Development (But Frontend specifically)
 - 🌱 I’m currently in my 4th year at IIIT-Vadodara, India.
 - 💞️ I’m looking to collaborate on literally anything that is difficult and exciting to code (afterall its the solving of bugs that matter!)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: The first computer "bug" was an actual bug! (I ChatGPTed it 😭)
+- ⚡ Fun fact: The first computer "bug" was an actual bug!
 - ✨ I also love to dance (like a lottt) and read books!
 
 <!---
