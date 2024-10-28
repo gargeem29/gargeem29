@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gargee!
-- 👀 I’m interested in Full Stack Development (But Frontend specifically)
+- 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently in my 4th year at IIIT-Vadodara, India.
 - 💞️ I’m looking to collaborate on literally anything that is difficult and exciting to code (afterall its the solving of bugs that matter!)
 - 😄 Pronouns: she/her
